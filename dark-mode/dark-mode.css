@@ -54,17 +54,7 @@ body.dark-mode .btn-contato {
 }
 
 body.dark-mode .btn-contato:hover {
-  background: linear-gradient(135deg, #6366f1, #4f46e5);
-}
-
-/* Hero Section */
-body.dark-mode .hero {
-  background: linear-gradient(to right, #1e1e1e, #2c2c2c);
-}
-
-body.dark-mode .hero h2,
-body.dark-mode .hero p {
-  color: #f0f0f0;
+  background: transparent;
 }
 
 /* Sobre e Projetos */
@@ -115,7 +105,7 @@ body.dark-mode .social-icons a:hover {
 body.dark-mode input,
 body.dark-mode textarea {
   background-color: #ffffff;
-  color: #e0e0e0;
+  color: #000000;
   border: 1px solid #000000;
 }
 
@@ -134,5 +124,5 @@ body.dark-mode form button {
 }
 
 body.dark-mode form button:hover {
-  background: linear-gradient(135deg, #6366f1, #4f46e5);
+  background: linear-gradient(135deg, #000000, #4f46e5);
 }

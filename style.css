@@ -73,7 +73,7 @@ nav ul li a::after {
 }
 
 nav ul li a:hover {
-  color: #ffffff;
+  color: #0400ff;
 }
 
 nav ul li a:hover::after {
@@ -344,9 +344,8 @@ footer {
 
 .social-icons a:hover {
   color: #4d50ff;
-  transform: translateY(-3px); 
+  transform: translateY(-3px);
 }
-
 
 .copyright {
   margin-top: 2rem;
