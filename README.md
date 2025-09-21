@@ -11,6 +11,7 @@ Portfólio feito para expor minhas habilidades e evolução no mundo da programa
 - JavaScript
 - TypeScript
 - Git / Github
+- Netlify (Hospedagem)
 
 
 ## Funcionalidades ​💯​:
