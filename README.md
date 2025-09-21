@@ -1,29 +1,26 @@
-<h1 align="center"> Portfólio </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-<br>
+# Protfólio Pessoal 👨‍💻​
 
-<p align="center">
-  <img alt="Portfólio" src="./github/capa.png" width="100%">
-</p>
+Portfólio feito para expor minhas habilidades e evolução no mundo da programação! Sempre busco melhorar meus códigos e aprender as tecnologias mais relevantes do mercado.
 
-## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Tecnologias usadas 🤖​:
 
 - HTML
 - CSS
 - JavaScript
-- Git
-- Github
+- TypeScript
+- Git / Github
 
-## 💻 Projeto
 
-Portfólio para expor meus projetos e habilidades como Desenvolvedor Front End.
+## Funcionalidades ​💯​:
+
+- Temas dark e light com troca de vídeo
+- Preview em tempo real
+- Adaptação para diferentes tamanhos de tela
+- Formulário com integração com Webhook
+- Conexão com redes sociais e meios de contato
+
 
 ## :memo: Licença
 
