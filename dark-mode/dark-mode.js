@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const heroVideo = document.querySelector(".hero video")
 
   // URLs dos vídeos
-  const videoLight = "../img/mp4/programando-js.mp4" 
-  const videoDark = "../img/mp4/video-darkmode.mp4" 
+  const videoLight = "../img/mp4/video-light.mp4"
+  const videoDark = "../img/mp4/video-dark.mp4"
 
   toggleButton.addEventListener("click", () => {
     body.classList.toggle("dark-mode")
