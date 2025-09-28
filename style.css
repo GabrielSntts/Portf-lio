@@ -215,7 +215,7 @@ section h3 {
 }
 
 .projeto-card {
-  background: #fff;
+  background: #c9c7c7;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -228,7 +228,7 @@ section h3 {
 
 .projeto-card img {
   width: 100%;
-  height: 200px;
+  height: 250px;
   object-fit: cover;
 }
 
